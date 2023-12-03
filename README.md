@@ -1,6 +1,6 @@
 # air-quality
 
-# Air Quality Reeport of Monsoon Countries [India, Nepal]
+# Air Quality Report of Monsoon Countries [India, Nepal]
 The air quality of cities in these countries is best around September-October and gets worse around January and February.
 While it starts to improve from jun July and starts to gets worse by November end. But the overall air quality is not good around major cities here in the northern region of India and the cities of Nepal as it has an average AQI for PM2.5 of around 250 during the worst while it comes down to 86 during the best time.
 
